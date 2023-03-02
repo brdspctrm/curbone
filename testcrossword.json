@@ -1,0 +1,168 @@
+{
+    "title": "Test Crossword",
+    "author": "Test Author",
+    "rows": 10,
+    "cols": 10,
+    "grid": [
+      [
+        { "number": 1, "black": false },
+        { "black": true },
+        { "number": 2, "black": false },
+        { "black": true },
+        { "black": true },
+        { "number": 3, "black": false },
+        { "black": true },
+        { "black": true },
+        { "number": 4, "black": false },
+        { "black": true }
+      ],
+      [
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "number": 5, "black": false },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true }
+      ],
+      [
+        { "number": 6, "black": false },
+        { "black": true },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "number": 7, "black": false }
+      ],
+      [
+        { "black": true },
+        { "black": true },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "number": 8, "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": true },
+        { "black": true }
+      ],
+      [
+        { "number": 9, "black": false },
+        { "number": 10, "black": false },
+        { "black": false },
+        { "number": 11, "black": false },
+        { "black": false },
+        { "black": false },
+        { "number": 12, "black": false },
+        { "black": false },
+        { "number": 13, "black": false },
+        { "black": false }
+      ],
+      [
+        { "black": true },
+        { "black": true },
+        { "black": false },
+        { "number": 14, "black": false },
+        { "number": 15, "black": false },
+        { "black": false },
+        { "number": 16, "black": false },
+        { "black": false },
+        { "black": true },
+        { "black": true }
+      ],
+      [
+        { "number": 17, "black": false },
+        { "black": true },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "number": 18, "black": false }
+      ],
+      [
+        { "black": true },
+        { "black": true },
+        { "black": false },
+        { "black": false },
+        { "number": 19, "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": false },
+        { "black": true },
+        { "black": true }
+      ],
+      [
+        { "number": 20, "black": false },
+        { "black": true },
+        { "number": 21, "black": false },
+        { "black": true },
+        { "black": true },
+        { "number": 22, "black": false },
+        { "black": true },
+        { "black": true },
+        { "number": 23, "black": false },
+        { "black": true }
+      ],
+      [
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "number": 24, "black": false },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true },
+        { "black": true }
+      ]
+    ],
+    "clues": {
+        "Across": [
+          { "number": 1, "clue": "Test clue 1" },
+          { "number": 2, "clue": "Test clue 2" },
+          { "number": 3, "clue": "Test clue 3" },
+          { "number": 4, "clue": "Test clue 4" },
+          { "number": 5, "clue": "Test clue 5" },
+          { "number": 9, "clue": "Test clue 6" },
+          { "number": 12, "clue": "Test clue 7" },
+          { "number": 13, "clue": "Test clue 8" },
+          { "number": 14, "clue": "Test clue 9" },
+          { "number": 15, "clue": "Test clue 10" },
+          { "number": 16, "clue": "Test clue 11" },
+          { "number": 17, "clue": "Test clue 12" },
+          { "number": 18, "clue": "Test clue 13" },
+          { "number": 19, "clue": "Test clue 14" },
+          { "number": 20, "clue": "Test clue 15" },
+          { "number": 21, "clue": "Test clue 16" },
+          { "number": 23, "clue": "Test clue 17" }
+        ],
+        "Down": [
+          { "number": 1, "clue": "Test clue 18" },
+          { "number": 2, "clue": "Test clue 19" },
+          { "number": 3, "clue": "Test clue 20" },
+          { "number": 4, "clue": "Test clue 21" },
+          { "number": 6, "clue": "Test clue 22" },
+          { "number": 7, "clue": "Test clue 23" },
+          { "number": 8, "clue": "Test clue 24" },
+          { "number": 10, "clue": "Test clue 25" },
+          { "number": 11, "clue": "Test clue 26" },
+          { "number": 12, "clue": "Test clue 27" },
+          { "number": 16, "clue": "Test clue 28" },
+          { "number": 19, "clue": "Test clue 29" },
+          { "number": 20, "clue": "Test clue 30" },
+          { "number": 22, "clue": "Test clue 31" },
+          { "number": 24, "clue": "Test clue 32" }
+        ]
+      }
+    }      
+    
+  
